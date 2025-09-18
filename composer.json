@@ -1,12 +1,12 @@
 {
 	"name": "oceancodex/wpsp-file-system",
-	"version": "8.3.0",
+	"version": "8.4.0",
 	"description": "WordPress Starter Plugin - File System",
 	"keywords": [
 	],
 	"license": "MIT",
 	"require": {
-		"php": "^8.3",
+		"php": "^8.4",
 		"illuminate/filesystem": "^v12.28.1"
 	},
 	"config": {
