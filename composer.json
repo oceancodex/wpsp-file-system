@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"require": {
 		"php": "^8.2",
-		"illuminate/filesystem": "^v11.18.1"
+		"illuminate/filesystem": "^v12.36.1"
 	},
 	"config": {
 		"sort-packages": true
